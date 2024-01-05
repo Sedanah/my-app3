@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "my-react-tutor-app",
+			"path": "../../../my-react-tutor-app"
+		},
+		{
+			"name": "public",
+			"path": "../../public"
+		},
+		{
+			"name": "src",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
